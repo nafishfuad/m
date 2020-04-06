@@ -1,0 +1,16 @@
+body{
+    background-color: pink;
+}
+.pic {
+    height: 300px;
+    width: 280px;
+    margin-top: 50px;
+    border: 10px inset aqua;
+    display: block;
+    transform: translate(50%,50%);
+}
+.ami{
+    height: 300px;
+    width: 280px;
+    margin-bottom: -5px;
+}
